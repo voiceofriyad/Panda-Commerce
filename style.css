@@ -49,5 +49,17 @@
     background-color: white;
     border-top: none;
     text-align: center;
-
+}
+#subscribe{
+    height: 300px;
+}
+#subscribe h6{
+    color: gray;
+}
+.submit{
+    margin-top: 10px;
+    text-align: center;
+}
+footer{
+    text-align: center;
 }
